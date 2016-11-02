@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>java8-kotlin-parent</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>java8-kotlin-parent</name>
 
@@ -26,7 +26,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/avaje-pom/java8-kotlin-parent.git</developerConnection>
-    <tag>java8-kotlin-parent-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
